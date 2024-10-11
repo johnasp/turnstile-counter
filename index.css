@@ -1,0 +1,61 @@
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/2/2c/Bloomfield_Road_PL_Kickoff-geograph-2039284.jpg");
+
+    font-family: Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.wrapper {
+    max-width: 80%;
+    padding: 14px;
+    border: 3px solid black;
+    border-radius: 3px;
+    background: ;
+}
+.count-total {
+    
+}
+#count-el {
+    background: white;
+    display: inline-block;
+    padding: 6px 12px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+button {
+    border: none;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding: 15px 20px;
+    color: black;
+    margin-right: 20px;
+}
+
+#increment-btn {
+    background: #ff7700;
+
+}
+
+#save-btn {
+    background: darkgreen;
+    color: white;
+}
+
