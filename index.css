@@ -18,8 +18,8 @@ body {
     border-radius: 3px;
     background: white;
 }
-.count-total {
-    
+p {
+    font-size: 30px;
 }
 #count-el {
     background: white;
@@ -47,6 +47,7 @@ button {
     padding: 15px 20px;
     color: black;
     margin-right: 20px;
+    font-size: 20px;
 }
 
 #increment-btn {
